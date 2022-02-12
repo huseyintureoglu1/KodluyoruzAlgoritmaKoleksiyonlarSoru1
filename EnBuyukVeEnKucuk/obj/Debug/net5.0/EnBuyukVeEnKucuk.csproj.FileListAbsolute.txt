@@ -1,0 +1,16 @@
+C:\Users\HT\source\repos\KodluyoruzAlgoritma2\EnBuyukVeEnKucuk\bin\Debug\net5.0\EnBuyukVeEnKucuk.exe
+C:\Users\HT\source\repos\KodluyoruzAlgoritma2\EnBuyukVeEnKucuk\bin\Debug\net5.0\EnBuyukVeEnKucuk.deps.json
+C:\Users\HT\source\repos\KodluyoruzAlgoritma2\EnBuyukVeEnKucuk\bin\Debug\net5.0\EnBuyukVeEnKucuk.runtimeconfig.json
+C:\Users\HT\source\repos\KodluyoruzAlgoritma2\EnBuyukVeEnKucuk\bin\Debug\net5.0\EnBuyukVeEnKucuk.runtimeconfig.dev.json
+C:\Users\HT\source\repos\KodluyoruzAlgoritma2\EnBuyukVeEnKucuk\bin\Debug\net5.0\EnBuyukVeEnKucuk.dll
+C:\Users\HT\source\repos\KodluyoruzAlgoritma2\EnBuyukVeEnKucuk\bin\Debug\net5.0\ref\EnBuyukVeEnKucuk.dll
+C:\Users\HT\source\repos\KodluyoruzAlgoritma2\EnBuyukVeEnKucuk\bin\Debug\net5.0\EnBuyukVeEnKucuk.pdb
+C:\Users\HT\source\repos\KodluyoruzAlgoritma2\EnBuyukVeEnKucuk\obj\Debug\net5.0\EnBuyukVeEnKucuk.csproj.AssemblyReference.cache
+C:\Users\HT\source\repos\KodluyoruzAlgoritma2\EnBuyukVeEnKucuk\obj\Debug\net5.0\EnBuyukVeEnKucuk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HT\source\repos\KodluyoruzAlgoritma2\EnBuyukVeEnKucuk\obj\Debug\net5.0\EnBuyukVeEnKucuk.AssemblyInfoInputs.cache
+C:\Users\HT\source\repos\KodluyoruzAlgoritma2\EnBuyukVeEnKucuk\obj\Debug\net5.0\EnBuyukVeEnKucuk.AssemblyInfo.cs
+C:\Users\HT\source\repos\KodluyoruzAlgoritma2\EnBuyukVeEnKucuk\obj\Debug\net5.0\EnBuyukVeEnKucuk.csproj.CoreCompileInputs.cache
+C:\Users\HT\source\repos\KodluyoruzAlgoritma2\EnBuyukVeEnKucuk\obj\Debug\net5.0\EnBuyukVeEnKucuk.dll
+C:\Users\HT\source\repos\KodluyoruzAlgoritma2\EnBuyukVeEnKucuk\obj\Debug\net5.0\ref\EnBuyukVeEnKucuk.dll
+C:\Users\HT\source\repos\KodluyoruzAlgoritma2\EnBuyukVeEnKucuk\obj\Debug\net5.0\EnBuyukVeEnKucuk.pdb
+C:\Users\HT\source\repos\KodluyoruzAlgoritma2\EnBuyukVeEnKucuk\obj\Debug\net5.0\EnBuyukVeEnKucuk.genruntimeconfig.cache
